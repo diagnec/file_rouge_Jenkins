@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_CREDENTIALS = 'jnk-creds' // ID Jenkins Credentials
-        DOCKERHUB_USER = 'pauljosephd'       // ton nom d’utilisateur Docker Hub
+        DOCKERHUB_USER = 'cheikh9708'       // ton nom d’utilisateur Docker Hub
     }
 
     stages {
